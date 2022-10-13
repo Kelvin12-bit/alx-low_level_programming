@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - user entry 
+ * main - entry point 
  *
  * Return: 0
  */
