@@ -13,7 +13,7 @@ char low;
 		if (low == 'e' || low == 'q')
 			continue;
 	putchar(low);
-	putchar(' ');
+
 }
 		return (0);
 }
